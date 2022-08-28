@@ -9,5 +9,5 @@
 модуль от предсказанных значений
 округление при помощи round а не int
 
-для получения данных о численности населения запустите файл ``parser.py``
+для получения данных о численности населения запустите файл ``parser.py``<br>
 [Colab](https://colab.research.google.com/drive/1OQ5_i8eGSsZxHbs3SkaWWsbZpPtxPbfM?usp=sharing)
